@@ -5,4 +5,4 @@
 cmake_minimum_required(VERSION 3.16)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(EMBD_X403_HELLOLED)
+project(EMBD_X403_helloLED)
